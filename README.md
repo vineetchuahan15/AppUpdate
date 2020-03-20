@@ -24,7 +24,7 @@ Add it in your app build.gradle at the end of repositories:
 
 ```bash
 dependencies {
-         implementation 'com.github.fccaikai:AppUpdate:2.1.4'
+         implementation 'com.github.vineetchuahan15:AppUpdate:1.0.0'
  }
 ```
 ## Usage
